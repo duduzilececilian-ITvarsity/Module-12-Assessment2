@@ -1,0 +1,49 @@
+body{
+    background-color: #0e5850;
+}
+html {
+    font-size: 14px;
+}
+
+.container {
+    max-width: 960px;
+}
+
+h2 {
+    font-family: oswald, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: #0e5850;
+    text-align: center;
+    margin-bottom: 10px;
+}    
+
+#editForm {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: #072c28;
+    
+}
+#editForm label {
+    display: block;
+    border: none;
+    margin: 5% auto;
+    width: 90%;
+    padding: 2%;
+    color: white;
+}
+
+.icon {
+    padding: 10px;
+    background: #072c28;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
